@@ -22,6 +22,12 @@ In `_config.yml` remember to specify your own data:
 
 The theme should reference these variables whenever needed.
     
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+    
 ## Sample Posts
 
 This blog contains sample posts which help stage pages and blog data.
