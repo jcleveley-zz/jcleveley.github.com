@@ -9,6 +9,8 @@ Directly following the intro we'll learn exactly _how_ Jekyll does what it does.
 
 ## Overview 
 
+
+<div style="width:425px" id="__ss_3207730"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/jcleveley/working-with-the-admin-generator" title="Working With The Symfony Admin Generator" target="_blank">Working With The Symfony Admin Generator</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/3207730" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/jcleveley" target="_blank">John Cleveley</a> </div> </div>
 ### What is Jekyll?
 
 Jekyll is a parsing engine bundled as a ruby gem used to build static websites from
